@@ -1,4 +1,4 @@
-import cvxpy as cp
+import yaglm.cvxpy as cp
 from time import time
 
 from yaglm.solver.base import GlmSolverWithPath
